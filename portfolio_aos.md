@@ -5,6 +5,7 @@
 - `2018.02 ~ 2018.04` 재직
 - 100만 다운로드 서비스 '해먹남녀' AOS app 유지/보수
 - `RxJava 1.x -> 2.x`, `OkHttp 2.x -> 3.x`, `Retrofit 1.x -> 2.x` 업데이트
+- `Java -> Kotlin` 컨버팅 및 신규 기능 `Kotlin`으로 개발
 - `MVP 아키텍쳐` 로 앱 구성
 
 
