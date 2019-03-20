@@ -11,7 +11,7 @@
 
 ### 1.1. 검색 기능 리뉴얼
 
-![](/Users/JunHee/Downloads/포트폴리오_사진/해먹_홈.png)
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1g194gnhft8j30g70h4n05.jpg)
 
 
 
@@ -48,7 +48,7 @@
 
 ### 2.4. 상품톡 
 
-![](/Users/JunHee/Downloads/포트폴리오_사진/엄선_상품톡.png)
+![](https://ws4.sinaimg.cn/large/006tKfTcgy1g194gobpysj314m0p4jye.jpg)
 
 
 
