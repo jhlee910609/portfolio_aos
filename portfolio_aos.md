@@ -1,9 +1,5 @@
 # 포트 폴리오
 
-## 0. 간단한 React Native 날씨 앱
-
-- [바로가기](https://github.com/jhlee910609/weather_app_practice)
-
 ## 1. 요리 레시피 추천 플랫폼, '해먹남녀' app
 
 - `2018.02 ~ 2018.04` 재직
